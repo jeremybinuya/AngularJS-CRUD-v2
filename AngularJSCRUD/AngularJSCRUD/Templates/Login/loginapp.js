@@ -42,7 +42,7 @@ app.controller('loginController', function ($scope, loginService) {
                     debugger;
                     $scope.IsLoggedIn = true;
                     //$scope.msg = "You Successfully Logged Mr/Ms " + d.data.FullName;
-                    window.location.href = '#/Employees'
+                    window.location.href = '#/Employees '
                 }
                 else {
                     alert("Invalid credentials buddy! Try Again");
