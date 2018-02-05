@@ -1,0 +1,66 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\csc.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\vbc.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Helpers.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Mvc.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Razor.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Razor.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Helpers.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Mvc.xml
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+c:\users\windows 10\documents\visual studio 2015\Projects\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\csc.exe
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\vbc.exe
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.dll.config
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\AngularJSCRUD.pdb
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Helpers.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Mvc.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Razor.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Razor.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Helpers.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\bin\System.Web.Mvc.xml
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.dll
+C:\Users\Windows 10\Documents\GitHub\CRUD-MVC-Using-AngularJS-v2\AngularJSCRUD\AngularJSCRUD\obj\Debug\AngularJSCRUD.pdb
