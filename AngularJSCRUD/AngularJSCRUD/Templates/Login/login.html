@@ -1,0 +1,28 @@
+﻿<h2>Employee Login</h2>
+<div ng-controller="loginController">
+    <form name="myForm" novalidate ng-submit="LoginForm()">
+        <div style="color:green">{{msg}}</div>
+        <table ng-show="!IsLoggedIn" class="table">
+            <tr>
+                <td>Usernmae: </td>
+                <td>
+                    <input type="text" ng-model="UserModel.Username" name="Username" ng-class="Submitted?'ng-dirty':''" required autofocus class="form-control" />
+                    <span style="color:red" ng-show="(myForm.Username.$dirty || Submited ) && myForm.Username.$error.required">Please enter Username</span>
+                    <span style="color:red" ng-show="myForm.Username.$error.username">Username is not valid</span>
+                </td>
+            </tr>
+            <tr>
+                <td>Password: </td>
+                <td>
+                    <input type="password" ng-model="UserModel.Password" name="UserPassword" ng-class="Submited?'ng-dirty':''" required autofocus class="form-control" />
+                    <span style="color:red" ng-show="(myForm.UserPassword.$dirty || Submited) && myForm.UserPassword.$error.required">Password Required</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="submit" value="submit" class="btn btn-success" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
