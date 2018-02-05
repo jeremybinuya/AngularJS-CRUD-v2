@@ -30,10 +30,13 @@ myApp.config(["$routeProvider", "$locationProvider", function ($routeProvider, $
             controller: 'eventsController'
         })
 
-        //.when('/Login', {
-        //    templateUrl: 'Templates/Login/login.html',
-        //    controller: 'loginController'
-        //})
+        //Login Route
+        .when('/Login', {
+            templateUrl: 'Templates/Login/login.html',
+            controller: 'loginController'
+        })
+
+
 
         .otherwise({
             redirectTo: '/'
