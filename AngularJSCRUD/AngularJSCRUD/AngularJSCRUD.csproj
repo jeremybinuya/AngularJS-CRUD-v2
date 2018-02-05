@@ -137,11 +137,16 @@
     <Content Include="Templates\Employees\employeedetails.html" />
     <Content Include="Templates\Employees\employeeedit.html" />
     <Content Include="Templates\Employees\employeelist.html" />
+    <Content Include="Templates\Events\eventApp.js" />
+    <Content Include="Templates\Events\eventlist.html" />
+    <Content Include="Templates\Login\login.html" />
+    <Content Include="Templates\Login\loginapp.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\EmployeeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
